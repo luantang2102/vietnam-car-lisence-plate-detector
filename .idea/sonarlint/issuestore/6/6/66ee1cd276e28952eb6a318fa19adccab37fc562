@@ -1,0 +1,33 @@
+
+Mpython:S1066è
+"/Merge this if statement with the enclosing one.(Îóçÿÿÿÿÿ
+wpython:S1186£"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Ğ˜ıİùÿÿÿÿ
+6python:S3626õ"Remove this redundant return.(ÙãŞŸ
+mpython:S3776û"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(ÛåŒË
+Rpython:S1135ƒ"4Complete the task associated to this "TODO" comment.(±•Õôüÿÿÿÿ
+epython:S1134‡"LTake the required action to fix the issue indicated by this "FIXME" comment.(Å†Ë›
+Rpython:S1135"4Complete the task associated to this "TODO" comment.(Ğ¾İıÿÿÿÿ
+Rpython:S1135Ä"4Complete the task associated to this "TODO" comment.(áæó˜şÿÿÿÿ
+jpython:S1764ã"LCorrect one of the identical sub-expressions on both sides of operator "!=".(“ÿ·úÿÿÿÿ
+mpython:S3776‹"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(æàœ„
+Rpython:S1135’"4Complete the task associated to this "TODO" comment.(±•Õôüÿÿÿÿ
+epython:S1134–"LTake the required action to fix the issue indicated by this "FIXME" comment.(Å†Ë›
+Rpython:S1135"4Complete the task associated to this "TODO" comment.(Ğ¾İıÿÿÿÿ
+rpython:S3776á"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(®öÙıÿÿÿÿ
+lpython:S3776¤"TRefactor this function to reduce its Cognitive Complexity from 82 to the 15 allowed.(¡‘¦v
+Ipython:S1481ì"+Replace the unused loop index "i" with "_".(“í¥ùÿÿÿÿ
+[python:S1481Š	"BReplace the unused local variable "original_tensor_type" with "_".(ì±øÄ
+Rpython:S1135ò"4Complete the task associated to this "TODO" comment.(Ú¹ÿÛùÿÿÿÿ
+Rpython:S1135ş"4Complete the task associated to this "TODO" comment.(Ú¹ÿÛùÿÿÿÿ
+Rpython:S1135¶	"4Complete the task associated to this "TODO" comment.(Ú¹ÿÛùÿÿÿÿ
+Rpython:S1135Ê	"4Complete the task associated to this "TODO" comment.(Ú¹ÿÛùÿÿÿÿ
+Npython:S1172 
+"0Remove the unused function parameter "location".(¸÷àîûÿÿÿÿ
+Npython:S1172£
+"0Remove the unused function parameter "location".(¸÷àîûÿÿÿÿ
+rpython:S3776º
+"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ë°•öşÿÿÿÿ
+Apython:S108Ì
+")Either remove or fill this block of code.(ã‘Û¾
+Rpython:S1135ë
+"4Complete the task associated to this "TODO" comment.(Ú¹ÿÛùÿÿÿÿ
